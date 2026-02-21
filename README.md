@@ -1,16 +1,32 @@
-# React + Vite
+**Bookstore Management – React App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application to manage bookstore records.
+Users can add books and view stored book details dynamically using React state.
 
-Currently, two official plugins are available:
+**Features**
+Add new book records
+Prevent duplicate ISBN entries
+Input validation (all fields required)
+Display all stored books
+Success & error messages
+Clean and beginner-friendly React Hooks implementation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Tech Stack**
+React (Functional Components)
+useState Hook
+JavaScript (ES6)
+HTML + CSS
 
-## React Compiler
+**Project Structure**
+<img width="350" height="472" alt="image" src="https://github.com/user-attachments/assets/b359de17-5fcd-4832-9f15-cd9f674c5bc1" />
+ 
+ ** Output**
+ <img width="435" height="756" alt="image" src="https://github.com/user-attachments/assets/fccedd4c-2460-4369-aa72-4b8b35661771" />
+ <img width="435" height="772" alt="image" src="https://github.com/user-attachments/assets/48029a6a-3bcb-4e5e-9097-2d1c7619e749" />
+ <img width="539" height="771" alt="image" src="https://github.com/user-attachments/assets/ff041407-37fa-44d9-82bb-2cc440517b02" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ 
+
+
